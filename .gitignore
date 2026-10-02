@@ -1,0 +1,9 @@
+# 你自己的真实配置（含远端地址等），绝不入库
+relay.conf
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 日志
+*.log
